@@ -1,9 +1,10 @@
 bin
 lib
-pyvenv.cfg
 lib6pyvenv.cfg4
 share
 includepyvenv.cfg
-pyvenv.cfg
 tokohlokal/__pycache__
 lib64
+share
+share/python-wheels
+pyvenv.cfg
